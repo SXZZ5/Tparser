@@ -1,0 +1,87 @@
+File inp read
+File outp read
+testgroup structure 
+.inputs 5
+1 2 3 4 5
+5
+6 5 3 4 4
+9
+6 5 5 7 5 6 6 8 7
+4
+4 3 2 1
+6
+2 2 4 5 3 2
+8
+1 3 17 19 27 57 179 13
+5
+3 17 57 179 92
+10
+1 2 3 4 0 6 7 8 9 10
+P;ÚT
+.outputs YES
+YES
+YES
+NO
+NO
+NO
+YES
+YES
+.test_count8
+string to write 
+1
+5
+1 2 3 4 5
+
+string to write 
+YES
+string to write 
+1
+5
+6 5 3 4 4
+
+string to write 
+YES
+string to write 
+1
+9
+6 5 5 7 5 6 6 8 7
+
+string to write 
+YES
+string to write 
+1
+4
+4 3 2 1
+
+string to write 
+NO
+string to write 
+1
+6
+2 2 4 5 3 2
+
+string to write 
+NO
+string to write 
+1
+8
+1 3 17 19 27 57 179 13
+
+string to write 
+NO
+string to write 
+1
+5
+3 17 57 179 92
+
+string to write 
+YES
+string to write 
+1
+10
+1 2 3 4 0 6 7 8 9 10
+
+string to write 
+YE
+string to write 
+[{"correct_answers":"YES","test":"1\n5\n1 2 3 4 5\n"},{"correct_answers":"YES","test":"1\n5\n6 5 3 4 4\n"},{"correct_answers":"YES","test":"1\n9\n6 5 5 7 5 6 6 8 7\n"},{"correct_answers":"NO","test":"1\n4\n4 3 2 1\n"},{"correct_answers":"NO","test":"1\n6\n2 2 4 5 3 2\n"},{"correct_answers":"NO","test":"1\n8\n1 3 17 19 27 57 179 13\n"},{"correct_answers":"YES","test":"1\n5\n3 17 57 179 92\n"},{"correct_answers":"YE","test":"1\n10\n1 2 3 4 0 6 7 8 9 10\n"}]

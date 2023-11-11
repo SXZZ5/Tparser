@@ -1,0 +1,10 @@
+- CONFIGURATION FEATURE
+    * kaunsi scheme me organise karna hai filenames ko. {a.in,a.out,a.cpp,a.exe} ya fir jaise mera rehta hai {ain,aout,a.cpp}
+    * json format me agar test hai to kya naam hai file ka. Override karna hai ya new file banani hai ?. New file banani hai to kya file name rakhna hai ?
+
+
+
+- RUNNER FEATURE
+    * solution.exe ko call karo aur input file ke against run karao.
+    * Fir diff karo.
+
